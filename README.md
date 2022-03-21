@@ -1,4 +1,4 @@
-# ds-study-codes - Data science study codes.
+# Data science study codes (ds-study-codes)
 
 ## Curso de Estatistica
 * Parte 01
